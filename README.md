@@ -1,1 +1,1 @@
-# blog-langchain-llamaindex
+Jupyter notebook for [blogpost](https://sriramgkn.github.io/4-lang-llama/) on LangChain and LlamaIndex. Dependencies are explained inside the notebook. These codes were developed for illustrative purposes, and might benefit from customization to suit specific needs.
